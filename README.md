@@ -40,7 +40,7 @@
 **Server**
 <div>
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-<img src="https://img.shields.io/badge/gunicorn-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <br>
 
 ## 관련 연구 및 사례

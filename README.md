@@ -17,28 +17,35 @@
 
 
 ## 기술 스택
+
+**Framework**  
 <div>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<br>
+
+**Language**
+<div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<br>
+  
+**DB**
+<div>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <br>
 
 ## 관련 연구 및 사례
 
-*레이저 프로(raiser-pro)*  
+**레이저 프로(raiser-pro)**  
 http://www.ablelife.co.kr/shop/shopdetail.html?branduid=1074172&xcode=005&mcode=005&scode=&special=1&GfDT=bm16W1w%3D
 
-전동기립 수동휠체어(splendor)  
+**전동기립 수동휠체어(splendor)**  
 https://www.ablelife.co.kr/m/product.html?branduid=1013140
 
-접이식 보행기  
+**접이식 보행기**  
 https://www.coupang.com/vp/products/1339525866?itemId=2366243299&vendorItemId=70362489554&src=1042503&spec=10304991&addtag=400&ctag=1339525866&lptag=10304991I2366243299&itime=20220227223729&pageType=PRODUCT&pageValue=1339525866&wPcid=16459055315287821350004&wRef=&wTime=20220227223729&redirect=landing&gclid=Cj0KCQiA3-yQBhD3ARIsAHuHT660oAwTKcH7abj9JM7beK5gIlHK57U0Tm7ELUUE1exROVJkUs3J9rIaAh1nEALw_wcB&campaignid=15017276043&adgroupid=&isAddedCart=
 
 

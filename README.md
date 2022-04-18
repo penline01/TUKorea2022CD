@@ -32,7 +32,7 @@
 
 ## 관련 연구 및 사례
 
-레이저 프로(raiser-pro)  
+*레이저 프로(raiser-pro)*  
 http://www.ablelife.co.kr/shop/shopdetail.html?branduid=1074172&xcode=005&mcode=005&scode=&special=1&GfDT=bm16W1w%3D
 
 전동기립 수동휠체어(splendor)  

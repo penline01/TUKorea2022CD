@@ -51,18 +51,14 @@ https://www.coupang.com/vp/products/1339525866?itemId=2366243299&vendorItemId=70
 
 ## 참고 기술
 
-pip install qrcode[pil] / import qrcode
-파이썬 QR코드 모듈 설치 명령어  
+**파이썬 QR코드 모듈 설치 명령어**  
 https://isss.tistory.com/320
 
-MTV & MVC
-통상적인 모델, 뷰 컨트롤러 방식과 Django 에서 이용되는 모델 뷰 템플릿 구조 차이 이해  
+**Django MTV 방식에 대한 이해**  
 https://sundryy.tistory.com/41
 https://wikidocs.net/70649
 
-Autodesk
-Autocad 개발사. 시빌 3D, 맵 3D 등의 프로그램 개발.
-각종 API 관련한 정보 및 버전 정보 얻을 수 있음.  
+**Autodesk 관련 정보 및 버전 정보**  
 https://www.autodesk.com/
 https://ko.wikipedia.org/wiki/%EC%98%A4%ED%86%A0%EC%BA%90%EB%93%9C
 

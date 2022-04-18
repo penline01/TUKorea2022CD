@@ -61,11 +61,11 @@ https://www.coupang.com/vp/products/1339525866?itemId=2366243299&vendorItemId=70
 https://isss.tistory.com/320
 
 **Django MTV 방식에 대한 이해**  
-https://sundryy.tistory.com/41
+https://sundryy.tistory.com/41  
 https://wikidocs.net/70649
 
 **Autodesk 관련 정보 및 버전 정보**  
-https://www.autodesk.com/
+https://www.autodesk.com/  
 https://ko.wikipedia.org/wiki/%EC%98%A4%ED%86%A0%EC%BA%90%EB%93%9C
 
 ## 팀원 구성 (융합전공)

@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 
 from pathlib import Path
-<<<<<<< HEAD
+
 import os
 import json
 from django.core.exceptions import ImproperlyConfigured
@@ -33,18 +33,10 @@ def get_secret(setting, secrets=secrets):
         raise ImproperlyConfigured(error_msg)
 
 SECRET_KEY = get_secret("SECRET_KEY")
-=======
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-
-
-# Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
-
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-l16$5wt=#_*go%1*u2a_5=$y=u_)i+dwwjff@oa1)!%afaq0@*'
->>>>>>> 943f3d66a82ea00debe23a33876db21cda33930a
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -53,10 +45,6 @@ DEBUG = True
 ALLOWED_HOSTS = [
 ]
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 943f3d66a82ea00debe23a33876db21cda33930a
 # 앱 등록하는 곳. 등록 이후에는 migration으로 등록해주어야함.
 INSTALLED_APPS = [
     'django.contrib.admin',

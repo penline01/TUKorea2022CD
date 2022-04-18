@@ -20,7 +20,7 @@ edit autoexec.bat
 
 ## 사용 예제
 
-     ![construct](https://user-images.githubusercontent.com/100399125/163746304-f409f9a1-0eaa-4895-a0b5-64c504d6eb3c.png)
+![construct](https://user-images.githubusercontent.com/100399125/163746304-f409f9a1-0eaa-4895-a0b5-64c504d6eb3c.png)
 
 
 ## 개발 환경 설정

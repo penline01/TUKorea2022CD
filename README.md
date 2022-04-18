@@ -18,7 +18,7 @@ npm install my-crazy-module --save
 edit autoexec.bat
 ```
 
-## 사용 예제
+## 시스템 
 
 ![construct](https://user-images.githubusercontent.com/100399125/163746304-f409f9a1-0eaa-4895-a0b5-64c504d6eb3c.png)
 
